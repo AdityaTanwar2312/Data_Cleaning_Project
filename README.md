@@ -4,7 +4,7 @@ Data cleaning is an important aspecct whether you are workinh in the feild of da
 
 Valuble and correct results can only be derived only when the data is clean and do not contain any error values or illogical values as per the reqired feild.
 
-There are several tools and languages that can be used for cleaning for data such as Python, SQL, dbt etc.(These are more popular ones)
+There are several tools and languages that can be used for cleaning for data such as Python(Pandas, Numpy), SQL etc.(These are more popular ones)
 
 ### Tools
 
